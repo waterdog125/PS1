@@ -10,6 +10,7 @@ public class Main {
 		 */
 		GibbonsB.HelloWorld();
 		AkumaUkpoA.HelloWorld();
+		MuleC.HelloWorld();
 		
 	}
 

@@ -13,6 +13,7 @@ public class Main {
 		MuleC.HelloWorld();
 		StaffordP.Helloworld();
 		MatimuM.HelloWorld();
+		SalahuddinZ.HelloWorld();
 	}
 
 }

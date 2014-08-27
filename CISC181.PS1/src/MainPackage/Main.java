@@ -23,6 +23,7 @@ public class Main {
 		ZhongW.HelloWorld();
 		VasquezJ.HelloWorld();
 		GarciaG.HelloWorld();
+		KreidlerC.HelloWorld();
 	}
 
 }

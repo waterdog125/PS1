@@ -21,6 +21,7 @@ public class Main {
 		JohnsonZ.HelloWorld();
 		SedighHaghighatF.HelloWorld();
 		ZhongW.HelloWorld();
+		VasquezJ.HelloWorld();
 	}
 
 }

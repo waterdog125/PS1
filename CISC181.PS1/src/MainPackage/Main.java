@@ -20,6 +20,7 @@ public class Main {
 		ArcillaM.HelloWorld();
 		JohnsonZ.HelloWorld();
 		SedighHaghighatF.HelloWorld();
+		ZhongW.HelloWorld();
 	}
 
 }

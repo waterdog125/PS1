@@ -18,6 +18,7 @@ public class Main {
 		FerrisR.HelloWorld();
 		ArceA.HelloWorld();
 		ArcillaM.HelloWorld();
+		JohnsonZ.HelloWorld();
 	}
 
 }

@@ -15,6 +15,7 @@ public class Main {
 		MatimuM.HelloWorld();
 		SalahuddinZ.HelloWorld();
 		BroschJ.HelloWorld();
+		FerrisR.HelloWorld();
 	}
 
 }

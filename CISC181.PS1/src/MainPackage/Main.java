@@ -25,6 +25,7 @@ public class Main {
 		GarciaG.HelloWorld();
 		KreidlerC.HelloWorld();
 		CutsailC.HelloWorld();
+		SteigerM.Helloworld();
 	}
 
 }

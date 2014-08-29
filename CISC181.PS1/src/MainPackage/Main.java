@@ -27,6 +27,7 @@ public class Main {
 		CutsailC.HelloWorld();
 		SteigerM.Helloworld();
 		FrommA.HelloWorld();
+		GulaM.HelloWorld();
 	}
 
 }

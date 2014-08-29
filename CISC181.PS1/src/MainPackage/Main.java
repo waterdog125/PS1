@@ -28,6 +28,7 @@ public class Main {
 		SteigerM.Helloworld();
 		FrommA.HelloWorld();
 		GulaM.HelloWorld();
+		SidotiG.HelloWorld();
 	}
 
 }

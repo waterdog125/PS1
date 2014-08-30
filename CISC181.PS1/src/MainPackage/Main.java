@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		/*
-		 * My Github Account Name: <akumaukpo>
+		 * My Github Account Name: <cfrick1>
 		 * 
 		 */
 		GibbonsB.HelloWorld();
@@ -30,6 +30,8 @@ public class Main {
 		GulaM.HelloWorld();
 		SidotiG.HelloWorld();
 		CaballeroD.HelloWorld();
+		FrickC.HelloWorld();
+		
 	}
 
 }

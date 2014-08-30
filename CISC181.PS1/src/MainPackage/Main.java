@@ -29,6 +29,7 @@ public class Main {
 		FrommA.HelloWorld();
 		GulaM.HelloWorld();
 		SidotiG.HelloWorld();
+		CaballeroD.HelloWorld();
 	}
 
 }

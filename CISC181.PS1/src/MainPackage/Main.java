@@ -31,6 +31,7 @@ public class Main {
 		SidotiG.HelloWorld();
 		CaballeroD.HelloWorld();
 		FrickC.HelloWorld();
+		AlshammariA.HelloWorld();
 		
 	}
 

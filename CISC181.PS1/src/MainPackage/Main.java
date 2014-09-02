@@ -33,6 +33,7 @@ public class Main {
 		FrickC.HelloWorld();
 		AlshammariA.HelloWorld();
 		CarlsonM.HelloWorld();
+		OribioyeJ.HelloWorld();
 		
 	}
 

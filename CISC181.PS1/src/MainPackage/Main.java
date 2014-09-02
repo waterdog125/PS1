@@ -37,6 +37,7 @@ public class Main {
 		MaddenA.HelloWorld();
 		ClarkE.HelloWorld();
 		KroneE.HelloWorld();
+		MurrayR.HelloWorld();
 		
 	}
 

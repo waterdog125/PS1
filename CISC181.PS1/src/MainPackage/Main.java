@@ -39,6 +39,7 @@ public class Main {
 		KroneE.HelloWorld();
 		MurrayR.HelloWorld();
 		McDanielsD.HelloWorld();
+		DehnC.HelloWorld();
 	}
 
 }

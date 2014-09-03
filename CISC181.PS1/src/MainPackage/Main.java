@@ -41,6 +41,7 @@ public class Main {
 		McDanielsD.HelloWorld();
 		DehnC.HelloWorld();
 		DavisM.HelloWorld();
+		AlsinaidiA.HelloWorld();
 	}
 
 }

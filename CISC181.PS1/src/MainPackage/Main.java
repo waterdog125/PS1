@@ -44,6 +44,7 @@ public class Main {
 		AlsinaidiA.HelloWorld();
 		NorthC.HelloWorld();
 		MercadoJ.HelloWorld();
+		DindiA.HelloWorld();
 	}
 
 }

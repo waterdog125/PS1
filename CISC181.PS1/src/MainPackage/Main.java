@@ -45,6 +45,7 @@ public class Main {
 		NorthC.HelloWorld();
 		MercadoJ.HelloWorld();
 		DindiA.HelloWorld();
+		FoxC.HelloWorld();
 	}
 
 }

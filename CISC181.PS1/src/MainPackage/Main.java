@@ -48,6 +48,7 @@ public class Main {
 		FoxC.HelloWorld();
 		MarkB.HelloWorld();
 		EzzaherJ.HelloWorld();
+		PompettiN.HelloWorld();
 	}
 
 }

@@ -9,6 +9,7 @@ public class Main {
 		McParlandK.HelloWorld();
 		WagnerE.HelloWorld();
 		GreenA.HelloWorld();
+		SchreiberZ.HelloWorld();
 		
 	}
 

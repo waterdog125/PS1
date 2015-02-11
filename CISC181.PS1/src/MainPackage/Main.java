@@ -7,7 +7,7 @@ public class Main {
 		GibbonsB.HelloWorld();
 		SellS.HelloWorld();
 		McParlandK.HelloWorld();
-		
+		WagnerE.HelloWorld();
 		
 		
 	}

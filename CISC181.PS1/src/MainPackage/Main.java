@@ -10,6 +10,7 @@ public class Main {
 		WagnerE.HelloWorld();
 		GreenA.HelloWorld();
 		SchreiberZ.HelloWorld();
+		RansomW.HelloWorld();
 		
 	}
 

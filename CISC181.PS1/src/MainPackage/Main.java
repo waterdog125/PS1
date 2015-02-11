@@ -13,7 +13,7 @@ public class Main {
 		RansomW.HelloWorld();
 		OrtizE.HelloWorld();
 		BakerM.HelloWorld();
-		
+		YooJ.HelloWorld();
 	}
 
 }

@@ -5,7 +5,7 @@ public class YooJ {
 		
 		System.out.println("Hello World");
 		
-		//Github Account Name: Zenithrising
+		//Github Account Name: Zenithrising 
 	}
 
 }

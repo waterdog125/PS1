@@ -12,6 +12,7 @@ public class Main {
 		SchreiberZ.HelloWorld();
 		RansomW.HelloWorld();
 		OrtizE.HelloWorld();
+		BakerM.HelloWorld();
 		
 	}
 

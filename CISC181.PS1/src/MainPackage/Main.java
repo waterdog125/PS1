@@ -22,6 +22,7 @@ public class Main {
 		BordersN.HelloWorld();
 		WangGZ.HelloWorld();
 		FurlongRobert.HelloWorld();
+		ShawR.HelloWorld();
 	}
 
 }

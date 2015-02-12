@@ -20,6 +20,7 @@ public class Main {
 		LasherH.HelloWorld();
 		CarpenterH.HelloWorld();
 		BordersN.HelloWorld();
+		WangGZ.HelloWorld();
 	}
 
 }

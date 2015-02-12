@@ -27,7 +27,6 @@ public class Calc {
 	 * Open the window.
 	 */
 	public void open() {
-		Display display = Display.getDefault();
 		createContents();
 		shell.open();
 		shell.layout();

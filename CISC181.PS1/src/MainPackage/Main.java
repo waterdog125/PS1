@@ -16,6 +16,7 @@ public class Main {
 		YooJ.HelloWorld();
 		RinaldiT.HelloWorld();
 		ChinmayaA.HelloWorld();
+		QuinlanJ.HelloWorld();
 	}
 
 }

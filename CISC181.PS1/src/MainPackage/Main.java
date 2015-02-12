@@ -25,6 +25,7 @@ public class Main {
 		ShawR.HelloWorld();
 		BergerJason.HelloWorld();
 		FerratoM.HelloWorld();
+		CurtinhasM.HelloWorld();
 		
 	}
 

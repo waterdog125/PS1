@@ -29,6 +29,7 @@ public class Main {
 		KniesteD.HelloWorld();
 		WeberR.HelloWorld();
 		YimingM.HelloWorld();
+		HeG.HelloWorld();
 	}
 
 }

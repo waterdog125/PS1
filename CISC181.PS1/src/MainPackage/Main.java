@@ -37,6 +37,7 @@ public class Main {
 		RaoN.HelloWorld();
 		NguyenV.HelloWorld();
 		LongoC.HelloWorld();
+		ConnellyE.HelloWorld();
 	}
 
 }

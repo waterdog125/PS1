@@ -33,6 +33,7 @@ public class Main {
 		LiW.HelloWorld();
 		ChenX.HelloWorld();
 		PaleenS.HelloWorld();
+		AwadN.HelloWorld();
 	}
 
 }

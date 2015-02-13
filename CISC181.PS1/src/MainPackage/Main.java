@@ -32,6 +32,7 @@ public class Main {
 		HeG.HelloWorld();
 		LiW.HelloWorld();
 		ChenX.HelloWorld();
+		PaleenS.HelloWorld();
 	}
 
 }

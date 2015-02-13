@@ -31,6 +31,7 @@ public class Main {
 		YimingM.HelloWorld();
 		HeG.HelloWorld();
 		LiW.HelloWorld();
+		ChenX.HelloWorld();
 	}
 
 }

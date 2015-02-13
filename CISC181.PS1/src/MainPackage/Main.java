@@ -28,7 +28,7 @@ public class Main {
 		CurtinhasM.HelloWorld();
 		KniesteD.HelloWorld();
 		WeberR.HelloWorld();
-		
+		YimingM.HelloWorld();
 	}
 
 }

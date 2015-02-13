@@ -30,6 +30,7 @@ public class Main {
 		WeberR.HelloWorld();
 		YimingM.HelloWorld();
 		HeG.HelloWorld();
+		LiW.HelloWorld();
 	}
 
 }

@@ -38,6 +38,7 @@ public class Main {
 		NguyenV.HelloWorld();
 		LongoC.HelloWorld();
 		ConnellyE.HelloWorld();
+		RaccaE.HelloWorld();
 	}
 
 }

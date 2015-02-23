@@ -42,6 +42,7 @@ public class Main {
 		ConnellyE.HelloWorld();
 		RaccaE.HelloWorld();
 		WiseA.HelloWorld();
+		GauseB.HelloWorld();
 	}
 
 }

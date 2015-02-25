@@ -7,6 +7,7 @@ public class Main {
 		// My Github Account Name: Awise91
 		
 		GibbonsB.HelloWorld();
+		BradyT.HelloWorld();
 		SellS.HelloWorld();
 		McParlandK.HelloWorld();
 		WagnerE.HelloWorld();

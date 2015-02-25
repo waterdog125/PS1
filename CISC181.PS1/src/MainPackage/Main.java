@@ -44,6 +44,7 @@ public class Main {
 		RaccaE.HelloWorld();
 		WiseA.HelloWorld();
 		GauseB.HelloWorld();
+		CornwellC.HelloWorld();
 	}
 
 }

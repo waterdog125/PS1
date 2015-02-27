@@ -45,6 +45,7 @@ public class Main {
 		WiseA.HelloWorld();
 		GauseB.HelloWorld();
 		CornwellC.HelloWorld();
+		SullivanK.HelloWorld();
 	}
 
 }
